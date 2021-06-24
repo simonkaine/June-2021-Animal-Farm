@@ -33,3 +33,24 @@ footer {
     background-color: #FAF0EA;
     padding: 10px;
 }
+
+img {
+    cursor: pointer;
+    height: 300px;
+    padding: 2px;
+}
+
+.images {
+    display: flex;
+    flex-direction: row;
+}
+
+.key-displays {
+    display: flex;
+}
+
+.cat-key-display, .dog-key-display, .horse-key-display {
+    padding-left: 80px;
+}
+
+
